@@ -1,0 +1,21 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "./dynatrace/_data/supported-technologies/technologies.json"
+      ],
+      "schema": true,
+      "url": "file://./dynatrace/_data/supported-technologies/technologies-schema.json"
+    },
+    {
+      "fileMatch": ["./dynatrace/_data/supported-technologies/modules.json"],
+      "schema": true,
+      "url": "file://./dynatrace/_data/supported-technologies/modules-schema.json"
+    },
+    {
+      "fileMatch": ["./dynatrace/_data/supported-technologies/platforms.json"],
+      "schema": true,
+      "url": "file://./dynatrace/_data/supported-technologies/platforms-schema.json"
+    }
+  ]
+}
