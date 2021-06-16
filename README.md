@@ -2,6 +2,6 @@
 
 ## Heading 2
 
-Updating the necessary file!
+Updating the necessary file.
 
-123
+Adding more paragraphs to the new-branch-code branch.
