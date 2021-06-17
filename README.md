@@ -26,3 +26,5 @@ File is very important!
 * List two
 * List three
 * List four
+
+Updated file after adding Anastasiya settings.
